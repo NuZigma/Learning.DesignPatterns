@@ -1,0 +1,6 @@
+C:\Workspace\Learning\Learning.DesignPatterns\Learning.DesignPatterns\bin\Debug\Learning.DesignPatterns.exe.config
+C:\Workspace\Learning\Learning.DesignPatterns\Learning.DesignPatterns\bin\Debug\Learning.DesignPatterns.exe
+C:\Workspace\Learning\Learning.DesignPatterns\Learning.DesignPatterns\bin\Debug\Learning.DesignPatterns.pdb
+C:\Workspace\Learning\Learning.DesignPatterns\Learning.DesignPatterns\obj\Debug\Learning.DesignPatterns.exe
+C:\Workspace\Learning\Learning.DesignPatterns\Learning.DesignPatterns\obj\Debug\Learning.DesignPatterns.pdb
+C:\Workspace\Learning\Learning.DesignPatterns\Learning.DesignPatterns\obj\Debug\Learning.DesignPatterns.csprojResolveAssemblyReference.cache

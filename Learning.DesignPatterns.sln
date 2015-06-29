@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40418.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Learning.DesignPatterns", "Learning.DesignPatterns\Learning.DesignPatterns.csproj", "{2B922EBA-4317-4CA6-B06B-71B3863E5732}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 2
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://nithinmohantk.visualstudio.com/defaultcollection
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = Learning.DesignPatterns\\Learning.DesignPatterns.csproj
+		SccProjectName1 = Learning.DesignPatterns
+		SccLocalPath1 = Learning.DesignPatterns
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2B922EBA-4317-4CA6-B06B-71B3863E5732}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B922EBA-4317-4CA6-B06B-71B3863E5732}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B922EBA-4317-4CA6-B06B-71B3863E5732}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B922EBA-4317-4CA6-B06B-71B3863E5732}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
